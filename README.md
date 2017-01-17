@@ -33,3 +33,11 @@ django-admin.py startproject mysite
 #### crear app:
 cd mysite
 django-admin.py startapp my_app
+
+
+
+
+#### INSTALADOS POR PIP
+
+	pip install django
+	pip install cookiecutter # generador de plantillas
